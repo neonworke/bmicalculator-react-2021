@@ -15,7 +15,7 @@ BMI Calculator project built using React JS
 <p>Use of UseState hook<p>
 <br></br>
 <h2>Demo:-</h2>
-https://bmicalculator-react-21.netlify.app
+<a href="https://bmicalculator-react-21.netlify.app" target="_blank">Click to go to BMI Calculator Website</a>
 
 
 <br></br>
