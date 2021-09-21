@@ -15,13 +15,13 @@ BMI Calculator project built using React JS
 <p>Use of UseState hook<p>
 <br></br>
 <h2>Demo:-</h2>
-https://id-card-generator-21.netlify.app
+https://bmicalculator-react-21.netlify.app
 
 
 <br></br>
 <h2>Project Screenshots:-</h2>
-<h3>Desktop View</h3>
-<img src="https://res.cloudinary.com/dpvxflhvr/image/upload/v1628028526/Screenshot_2021-08-04_033759_uedobr.png" width="500px"/>
+<h3>Input</h3>
+<img src="https://res.cloudinary.com/dpvxflhvr/image/upload/v1632250981/Screenshot_32_rova1i.png" height="400px"/>
 <br></br>
-<h3>Mobile View</h3>
-<img src="https://res.cloudinary.com/dpvxflhvr/image/upload/v1628029442/Screenshot_2021-08-04_035331_znadb1.png" height="400px"/>
+<h3>Output</h3>
+<img src="https://res.cloudinary.com/dpvxflhvr/image/upload/v1632250981/Screenshot_33_u1lrwj.png" height="400px"/>
